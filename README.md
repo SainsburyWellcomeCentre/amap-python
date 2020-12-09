@@ -19,8 +19,6 @@ Automated mouse atlas propagation
 [bg-atlasapi](https://github.com/brainglobe/bg-atlasapi) to support multiple species,
 atlases and resolutions.**
 
-**amap will be supported for existing projects, but if you are starting a new 
-project, please use [brainreg](https://github.com/brainglobe/brainreg).**
 
 ## About
 amap is python software for registration of brain templates to sample whole-brain
